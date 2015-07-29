@@ -1,0 +1,4 @@
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.PL.Interface\bin\Debug\Plugin.PL.Interface.dll
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.PL.Interface\bin\Debug\Plugin.PL.Interface.pdb
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.PL.Interface\obj\Debug\Plugin.PL.Interface.dll
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.PL.Interface\obj\Debug\Plugin.PL.Interface.pdb

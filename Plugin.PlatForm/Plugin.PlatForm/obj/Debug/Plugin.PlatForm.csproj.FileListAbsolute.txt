@@ -1,0 +1,6 @@
+D:\代码\Code\C#\插件式框架\MailDll\Plugin.PlatForm.dll.config
+D:\代码\Code\C#\插件式框架\MailDll\Plugin.PlatForm.dll
+D:\代码\Code\C#\插件式框架\MailDll\Plugin.PlatForm.pdb
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.PlatForm\obj\Debug\Plugin.PlatForm.dll
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.PlatForm\obj\Debug\Plugin.PlatForm.pdb
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.PlatForm\obj\Debug\Plugin.PlatForm.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\代码\Code\C#\插件式框架\MailDll\Plugin.Main.exe
+D:\代码\Code\C#\插件式框架\MailDll\Plugin.Main.pdb
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.Main\obj\x86\Debug\Plugin.Main.Properties.Resources.resources
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.Main\obj\x86\Debug\Plugin.Main.csproj.GenerateResource.Cache
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.Main\obj\x86\Debug\Plugin.Main.exe
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.Main\obj\x86\Debug\Plugin.Main.pdb
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.Main\obj\x86\Debug\Plugin.Main.csprojResolveAssemblyReference.cache

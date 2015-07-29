@@ -1,0 +1,12 @@
+D:\代码\Code\C#\插件式框架\MailDll\Plugin.UI.WPFTest.exe
+D:\代码\Code\C#\插件式框架\MailDll\Plugin.UI.WPFTest.pdb
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.UI.WPFTest\obj\x86\Debug\MainWindow.baml
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.UI.WPFTest\obj\x86\Debug\MainWindow.g.cs
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.UI.WPFTest\obj\x86\Debug\App.g.cs
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.UI.WPFTest\obj\x86\Debug\Plugin.UI.WPFTest_MarkupCompile.cache
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.UI.WPFTest\obj\x86\Debug\Plugin.UI.WPFTest.g.resources
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.UI.WPFTest\obj\x86\Debug\Plugin.UI.WPFTest.Properties.Resources.resources
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.UI.WPFTest\obj\x86\Debug\Plugin.UI.WPFTest.csproj.GenerateResource.Cache
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.UI.WPFTest\obj\x86\Debug\Plugin.UI.WPFTest.exe
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.UI.WPFTest\obj\x86\Debug\Plugin.UI.WPFTest.pdb
+D:\代码\Code\C#\插件式框架\Plugin.PlatForm\Plugin.UI.WPFTest\obj\x86\Debug\Plugin.UI.WPFTest.csprojResolveAssemblyReference.cache
