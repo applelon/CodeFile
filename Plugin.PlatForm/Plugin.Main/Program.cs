@@ -16,6 +16,7 @@ namespace Plugin.Main
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
+
             Plugin.PlatForm.Main main = new PlatForm.Main();
             main.Initlize();
             Application.Run();
